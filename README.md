@@ -191,7 +191,7 @@ Author Information
 ------------------
 
 The original role for Amazon Linux 1 was developed by [Anth Courtney](https://au.linkedin.com/in/anthcourtney).
-Amazon Linux 2 CIS Benchmark v1.0.0 compliance and enhancements throughout the role were implemented by [Alp Ozcan](https://au.linkedin.com/in/gozcan)
+Amazon Linux 2 CIS Benchmark v1.0.0 compliance and enhancements throughout the role were implemented by @alpozcan [Alp Ozcan](https://au.linkedin.com/in/gozcan)
 
 All feedback, issues and PRs are encouraged and appreciated.
 
